@@ -2,6 +2,16 @@ apiVersion: v1
 entries:
   golem-operator:
   - apiVersion: v2
+    appVersion: v1.7.4
+    created: "2026-10-26T14:48:30.503760684Z"
+    description: A Helm chart for Golem Operator
+    digest: 17da89da32d6bcd55035c648b1c42d247ced0ecf0c4490eae43d8525a1992943
+    name: golem-operator
+    type: application
+    urls:
+    - https://github.com/ventus-ag/helm-charts/releases/download/golem-operator-1.7.4/golem-operator-1.7.4.tgz
+    version: 1.7.4
+  - apiVersion: v2
     appVersion: v1.7.3
     created: "2026-10-23T19:55:45.894392074Z"
     description: A Helm chart for Golem Operator
@@ -171,4 +181,4 @@ entries:
     urls:
     - https://github.com/ventus-ag/helm-charts/releases/download/golem-operator-0.1.0/golem-operator-0.1.0.tgz
     version: 0.1.0
-generated: "2026-10-23T19:55:45.894491643Z"
+generated: "2026-10-26T14:48:30.504113611Z"
